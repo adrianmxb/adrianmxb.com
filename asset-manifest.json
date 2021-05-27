@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adrianmxb.com/static/css/main.b619b79f.chunk.css",
+    "main.js": "/adrianmxb.com/static/js/main.8696d429.chunk.js",
+    "main.js.map": "/adrianmxb.com/static/js/main.8696d429.chunk.js.map",
+    "runtime-main.js": "/adrianmxb.com/static/js/runtime-main.b16bfc9a.js",
+    "runtime-main.js.map": "/adrianmxb.com/static/js/runtime-main.b16bfc9a.js.map",
+    "static/js/2.292d3c2b.chunk.js": "/adrianmxb.com/static/js/2.292d3c2b.chunk.js",
+    "static/js/2.292d3c2b.chunk.js.map": "/adrianmxb.com/static/js/2.292d3c2b.chunk.js.map",
+    "static/js/3.9d3bfdd7.chunk.js": "/adrianmxb.com/static/js/3.9d3bfdd7.chunk.js",
+    "static/js/3.9d3bfdd7.chunk.js.map": "/adrianmxb.com/static/js/3.9d3bfdd7.chunk.js.map",
+    "index.html": "/adrianmxb.com/index.html",
+    "static/css/main.b619b79f.chunk.css.map": "/adrianmxb.com/static/css/main.b619b79f.chunk.css.map",
+    "static/js/2.292d3c2b.chunk.js.LICENSE.txt": "/adrianmxb.com/static/js/2.292d3c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16bfc9a.js",
+    "static/js/2.292d3c2b.chunk.js",
+    "static/css/main.b619b79f.chunk.css",
+    "static/js/main.8696d429.chunk.js"
+  ]
+}
